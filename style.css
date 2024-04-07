@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #DAA520;
+}
+
+.box_1 {
+    width: 365px;
+    height: 365px;
+    background-color: #297E40;
+    border-radius: 12px;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+
+.box_2 {
+    width: 365px;
+    height: 365px;
+    background-color: #8E2877;
+    border-radius: 90px;
+    margin-top: 32px;
+    margin-left: 429px;
+    opacity: 90%;
+}
+
+.box_3 {
+    width: 365px;
+    height: 365px;
+    background-color: #361BA4;
+    border-radius: 20px;
+    margin-top: 32px;
+    margin-left: 826px;
+}
